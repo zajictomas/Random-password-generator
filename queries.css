@@ -1,0 +1,9 @@
+@media only screen and (max-width: 505px){
+    .box {
+        width: 92%;
+    }
+
+    input {
+        width: 100%;
+    }
+}
