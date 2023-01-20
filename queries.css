@@ -1,9 +1,18 @@
 @media only screen and (max-width: 505px){
     .box {
-        width: 92%;
+        width: 95%;
     }
 
-    input {
+    input, table {
         width: 100%;
     }
+
+    .btn2 {
+        margin-left: auto;
+    }
 }
+
+
+/* @media only screen and (max-width: 457px){
+    
+} */
